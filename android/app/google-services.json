@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827495488989",
+    "project_id": "sudandriver-977c8",
+    "storage_bucket": "sudandriver-977c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827495488989:android:49f36f7471b972c18eaa34",
+        "android_client_info": {
+          "package_name": "com.sudan_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827495488989-ks2m3kgucdtoqh0lcdqu373tomabd15g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sudan_driver",
+            "certificate_hash": "d08d198c8afb6807b2829fef3a387ec205a429b0"
+          }
+        },
+        {
+          "client_id": "827495488989-n9hrnuej5kg7tbf9e98a3i6b322p7dt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3ONYyuHfcBUvnfUicvlbOYjinnkEgBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827495488989-n9hrnuej5kg7tbf9e98a3i6b322p7dt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
